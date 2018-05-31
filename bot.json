@@ -1,0 +1,6 @@
+{
+  "name" : "SimpleBot_EAB",
+  "description" : "Testing how Oracle Mobile Cloud works, Eddy Arellanes",
+  "type" : "USER",
+  "intentTrainer" : "Sakura"
+}

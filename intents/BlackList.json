@@ -1,0 +1,902 @@
+{
+  "name" : "BlackList",
+  "intentParameters" : [ ],
+  "exampleData" : [ {
+    "sentence" : "orto",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "concha",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "No se apene",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Dora Melcacho",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "pelotudo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "no estes jodiendo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Lameculos",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Paco Gerte",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "traes nopal en la cara",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Verga",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Pinche",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "chinga tu madre",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "mierdaseca",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Travesti",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "quieres ver la negra?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "chupala",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Asesinato",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Zoquete",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Mariconazo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "arma",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "pinche gato",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "vibrador",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Drogas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "maldito",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Coñito",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "negro de mierda",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Hijaputa",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "suicidio",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Yositoko Tukoshita",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "pnche bot",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "terrorismo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "no pinches mames",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "pinche huevón",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "VIH",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "kamikaze",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "te voy a dar unos madrazos",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "gila",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Huele a obo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "chupa pinga",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Susana Horia",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Teyeno Tuoyo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "asno",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "violar",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "está cabrón",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Pedo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Puta",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "vamos a reventarnos la madre",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "te voy a coger",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Caca",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "gila de mierda",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "martillo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "perra sucia",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "navaja",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "tortura",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "eres un indio",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "matar",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Heroína",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Hijoputa",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "puñetas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Elber Gudo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Malparido",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "tus pnches recetas no sirven we",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "puta madre",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "pendejadas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Atrás se pide pero por delante se despacha",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "culiao",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Soplagaitas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "puta madre!",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Vulva",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Sádico",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "pornografica",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "hijo del diablo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "quieres ver la peluda?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Orina",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Yokero Tuchico",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "madrazo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Cagapalo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "mis cojones",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Ramera",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "te maldigo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Tírame la goma",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Maricón",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "quieres verla?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "te voy a dar un madrazo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "la peluda",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "que te la pique un pollo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "necrofílico",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¿Quieres pene?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¿te gusta la panocha?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "come chuzos",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "menso",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Mierda",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "necrofilia",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¿eres de ambiente?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Eres un zángano",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "eres un animal",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Cara e' Verga",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "en tu puta vida",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Racista",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "son mamadas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Gonorrea",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "vete a la mierda",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "narcotráfico",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Zopenco",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Chupapollas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Fiesta de salchichas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "sopla pollas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "hueles a caca",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Calienta Guevo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "metralladora",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¡Mis huevos!",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "cagate",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Nazi",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Bollera",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Hija de puta",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Imbécil",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "te voy a cagar encima",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "que te folle un pez",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "a chingar a su madre",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Vergón",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "te voy a asesinar",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Huevos pateados",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¿conoces a estefi?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Chupa Culo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "pornografía",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "traga pipes",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Sida",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "No sacudan tanto el chile, que se riega la semilla",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Semen",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "escopeta",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "pinche bot",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "me suda la polla",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "hacéme un pete",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "mátame",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "eres una guarra",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "pinche naco",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Cojeculo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "que receta tan culera",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "al chile",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "me sacaste un pedo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¿quiéres chile?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Eres un zopenco",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "bastardo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Culo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¿te gustan los penes?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "no chingues",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "eres un pendejo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "dame de comer puto",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "frotame el orto",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "eres un cabrón",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "desmadre",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¿unos vergazos?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "chupamela",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Esperma",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "eres un capullo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¿Lo mato?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "eres un guarro",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Mamada",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "porno",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "matame",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "échale huevos",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "me vaz a comer los huevos por detrás",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "la puta que te pario",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "voy a abusar de ti",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "hazlo tu imbécil",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Coño",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "sadomasoquismo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "mamala",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "cógeme",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Suéltelo que eso no da leche",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Saquéeselo que se aho",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Coprofagía",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "eres un idiota",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Que chingados?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "el coño de tu hermana",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "bajale a tu desmadre",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "eres un hdp",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "chochogordo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "te voy a meter una hostia",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "cacarrota",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Sifilis",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Pis",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "satanás",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Mohammed Labara",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Tarado",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "espada",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "que hueva",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "quieres nepe?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Meapilas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "huele culos",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Haciendo el amor",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "bájale a tu desmadre",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Vales verga",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "me voy a suicidar",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Follador",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "a huevo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Que el diablo me escupa el culo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "weon",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Idiota",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Marico",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "tontolapolla",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¡puta madre!",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "lame bolas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "me vaz a comer los huevos por detras",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Kapullo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "asesiname",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Zángano",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "maldito seas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¿te gusta el chile?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "eres un imbécil",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Tetas grandes",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "jodido",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "pinche baboso",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "rompe pelotas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "puta vieja",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Trio",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Marica",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "culero",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "el coño de tu prima",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "muerte",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Te voy a orinar",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Tocapelotas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "pendejo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Gilipichis",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "infierno",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Eres un zoquete",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "pura mierda",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¿eres Soplapollas?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Culopollo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "te voy a violar",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "ve a tomar por culo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "muy chingon?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Concha de tu madre",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Prostituta",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Sexo oral",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Maciza",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "pistola",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Mongol",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "culera",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "que pedo cabrón",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "putiza",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "pura basura",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Chupada",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "tu mamá",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "chingada madre",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "me suda el coño",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "eres un cabron",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Chupetón",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "se lo llevó su puta madre",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Macizorra",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Hijo de brageta desconocida",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Pedorro",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¿Muy chingón?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¿Cómo está el pedo?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Pervertido",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Joto",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "me sacó un pedo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¿quieres pedos?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "vete a la verga",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "chilote",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Cabron",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Hacer una paja",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Cabrón",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Jilipollas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "no te emputes",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "violación",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¿quieres unos putazos?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "orgía",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "no estés jodiendo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Descerebrado",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "te voy a matar",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "cómeme la papaya",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "judío de mierda",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "¿Lo asesino?",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Soplapollas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "por la concha",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Zorra",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Tía buena",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Gilipollas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "eres un imbecil",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "No importa lo grueso, sino lo travieso",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "mamonazo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "come mierda",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Al chilazo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "me eché a tu mamá",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "no mames",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "rebaña condones",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Hijo de puta",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "boludo",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "hijo de satán",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "déjate venir puto",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "chupamingas",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Follar",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Hijo de tu perrisima madre",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Cara de feto",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Pezón",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "asesíname",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "ptm",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Sexo",
+    "exampleEntities" : [ ]
+  } ]
+}

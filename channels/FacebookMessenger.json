@@ -1,0 +1,8 @@
+{
+  "name" : "FacebookMessenger",
+  "description" : "Test Only",
+  "enabled" : true,
+  "config" : {
+    "type" : "facebook"
+  }
+}

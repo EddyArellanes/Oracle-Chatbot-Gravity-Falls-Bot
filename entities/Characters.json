@@ -1,0 +1,19 @@
+{
+  "name" : "Characters",
+  "description" : "Characters of Gravity Falls\n",
+  "type" : "ENUMVALUES",
+  "enumValues" : [ {
+    "canonicalName" : "Bill Cipher",
+    "synonyms" : [ "Enemy", "Anatagonist", "Ancestor", "Pyramid", "One-Eye" ]
+  }, {
+    "canonicalName" : "Diper Pines",
+    "synonyms" : [ "Boy", "Protagonist", "Pines" ]
+  }, {
+    "canonicalName" : "Mabel Pines",
+    "synonyms" : [ "Girl", "Protagonist", "Pines" ]
+  }, {
+    "canonicalName" : "Stan Pines",
+    "synonyms" : [ "Man", "Older", "Protagonist", "Pines", "Stanley" ]
+  } ],
+  "namedEntityRuleParams" : [ ]
+}

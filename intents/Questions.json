@@ -1,0 +1,23 @@
+{
+  "name" : "Questions",
+  "description" : "Do bot ask you",
+  "type" : "NLPIntent",
+  "intentParameters" : [ {
+    "name" : "CharactersCharacters of Gravity Falls\n",
+    "required" : true,
+    "entity" : "Characters"
+  } ],
+  "exampleData" : [ {
+    "sentence" : "Ask me ",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Ask me now",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "I'm Ready",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Give me a Question",
+    "exampleEntities" : [ ]
+  } ]
+}
